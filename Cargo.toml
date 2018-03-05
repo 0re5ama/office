@@ -1,0 +1,6 @@
+[package]
+name = "hkrrnk"
+version = "0.1.0"
+authors = ["0re5ama <shahbibek10@gmail.com>"]
+
+[dependencies]
